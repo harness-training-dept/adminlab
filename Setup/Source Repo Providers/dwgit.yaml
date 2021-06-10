@@ -1,0 +1,7 @@
+harnessApiVersion: '1.0'
+type: GIT
+keyAuth: false
+password: safeharness:lI5lVI8BQvO6xDZnoucrbQ
+url: https://github.com/dwharness/admintest
+urlType: REPO
+username: dwharness
